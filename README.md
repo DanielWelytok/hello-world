@@ -1,2 +1,2 @@
 # hello-world
-this is a test 
+My name is Daniel and I'm an INFOST student at UWM 
